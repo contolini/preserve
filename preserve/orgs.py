@@ -21,7 +21,6 @@ def preserve_organization(org, dest_org):
 
     # Get a list of that organization's repositories
     repositories = list_repositories(org)
-    # repositories = ['cfgov-refresh']
 
     # Create forks
     for repo in repositories:
