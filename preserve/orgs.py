@@ -6,7 +6,6 @@ from preserve.github import (
     fork_exists,
     fork_repository,
     list_repositories,
-    rate_limit,
     rename_repository,
     update_fork,
 )
