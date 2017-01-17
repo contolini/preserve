@@ -1,0 +1,6 @@
+.coverage
+.tox
+.eggs
+.cache
+*.egg-info
+.env
